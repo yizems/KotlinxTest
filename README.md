@@ -7,6 +7,8 @@
 
 [KT tracker](https://youtrack.jetbrains.com/issue/KT-22430)
 
+顺便说句,该问题 已经发现了一年半多,至今没有修复,呵呵
+
 
 Android Studio was able to find layout in `library` module.
 See [MainActivity](https://github.com/mjurkus/KotlinxTest/blob/master/app/src/main/java/com/example/kotlinxtest/MainActivity.kt)
