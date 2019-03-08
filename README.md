@@ -1,5 +1,13 @@
 # KotlinxTest
 
+
+此项目主要用于验证 kotlinx 在 include library 中的 id的时候,是否能够正常运行,目前为 Unresolved reference bug:
+
+[stackoverflow](https://stackoverflow.com/questions/48378696/unresolved-reference-for-synthetic-view-when-layout-is-in-library-module)
+
+[KT tracker](https://youtrack.jetbrains.com/issue/KT-22430)
+
+
 Android Studio was able to find layout in `library` module.
 See [MainActivity](https://github.com/mjurkus/KotlinxTest/blob/master/app/src/main/java/com/example/kotlinxtest/MainActivity.kt)
 
