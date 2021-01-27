@@ -1,5 +1,6 @@
 # KotlinxTest
 
+**kotlin-android-extension 过时了=.=**
 
 此项目主要用于验证 kotlinx 在 include library 中的 id的时候,是否能够正常运行,目前为 Unresolved reference bug:
 
